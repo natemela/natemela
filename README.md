@@ -1,5 +1,15 @@
-### Hi there 👋
+### Hi 👋
+I'm Nate, and this is my GitHub profile.
 
+-----
+
+🎓 Attending Duke University for a B.S.E. in Electrical & Computer Engineering and Computer Science
+
+🤖 Currently working on robots at [Built Robotics](https://builtrobotics.com)
+
+💼 I'm on [LinkedIn](https://www.linkedin.com/in/nate-mela/)
+
+🌐 Portfolio at [natemela.github.io](https://natemela.github.io/)
 <!--
 **natemela/natemela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
