@@ -1,5 +1,4 @@
 ### Hi 👋
-I'm Nate, and this is my GitHub profile.
 
 -----
 
