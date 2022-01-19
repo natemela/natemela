@@ -6,7 +6,7 @@
 
 💼 [LinkedIn](https://www.linkedin.com/in/nate-mela/)
 
-🌐 [natemela.github.io](https://natemela.github.io/)
+<!-- 🌐 [natemela.github.io](https://natemela.github.io/) -->
 <!--
 **natemela/natemela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
