@@ -1,9 +1,3 @@
-### Hi 👋
-
------
-
-🎓 Attending Duke University for a B.S.E. in Electrical & Computer Engineering and Computer Science
-
 💼 [LinkedIn](https://www.linkedin.com/in/nate-mela/)
 
 <!-- 🌐 [natemela.github.io](https://natemela.github.io/) -->
